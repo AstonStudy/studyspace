@@ -1,7 +1,7 @@
 # Арсений Майоров
 
 
-<p style="text-align: right;">
+<p align="right">
   <img src="https://sun9-38.vkuserphoto.ru/s/v1/ig2/nPHp5bwyZ70p8N9QzbG1oq-7ULH26uGxvBEPbe8adkEkyImkdyu9p7co9TMQVkKnF3UR0KWV71BlwxFfIado9B83.jpg?quality=95&as=32x43,48x64,72x96,108x145,160x214,240x322,312x418&from=bu&u=OH0IYqWFZi2xXFkaLA_yQae6vrVsejhcxnVeglEK_kc&cs=312x0" alt="Арсений Майоров" width="150" height="auto">
 </p>
 
