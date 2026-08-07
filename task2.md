@@ -194,7 +194,7 @@ class AgroDataService:
 
 
 # Контакты
-* [GitHub: github.com/ArseniiMaiorov](github.com/ArseniiMaiorov)"Я на GitHub"
+* [GitHub: github.com/ArseniiMaiorov](github.com/ArseniiMaiorov "Я на GitHub")
 * Email: ars.maiorov@yandex.ru
 
 ---
